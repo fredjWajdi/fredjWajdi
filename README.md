@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fredjWajdi
 - 👀 I’m interested in android app development
 - 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on creating and development of android applications
+- 💞️ I’m looking to collaborate on creating and developing android applications
 - 📫 How to reach me fredj.wajdi@gmail.com
 
 <!---
